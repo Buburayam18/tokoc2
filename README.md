@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # hi
 # hi
 # tokoc2
+# tokoc2
