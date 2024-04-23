@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # hi
 # tokoc2
 # tokoc2
+# tokoc2
